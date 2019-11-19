@@ -2,7 +2,7 @@ package com.company;
 
 /**
  * @author wgl
- * @ClassName Demo1.java
+ * @ClassName AVLTree.java
  * @Description 自平衡二叉查找树实现测试类
  * @createTime 2019/11/12  11:06:00
  */
