@@ -37,8 +37,3 @@ public class CookingDemo {
 //   (int a, int b) -> a + b;
 //}
 
-class testBean{
-    int test;
-    String testStr;
-    Object testObj;
-}
