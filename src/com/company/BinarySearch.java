@@ -28,6 +28,9 @@ public class BinarySearch {
         return -1;
     }
 
+    /*
+    * 二分查询只需要使用比奥
+    * */
     //测试用例
     public static void main(String[] args) {
         //todo erro：Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
