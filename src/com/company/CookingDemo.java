@@ -15,7 +15,6 @@ import java.util.stream.Stream;
  */
 public class CookingDemo {
 
-
     public static void main(String[] args) {
         CookingDemo cookingDemo = new CookingDemo();
         cookingDemo.doTask("蔬菜", material -> System.out.println("清洗" + material));

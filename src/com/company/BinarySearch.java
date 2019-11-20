@@ -27,13 +27,8 @@ public class BinarySearch {
         }
         return -1;
     }
-
-    /*
-    * 二分查询只需要使用比奥
-    * */
     //测试用例
     public static void main(String[] args) {
-        //todo erro：Exception in thread "main" java.lang.ArrayIndexOutOfBoundsException: 0
         int[] whiteList= new int[]{1,5,6,9,2,3};
         //Arrays实现对数组的排列
         Arrays.sort(whiteList);

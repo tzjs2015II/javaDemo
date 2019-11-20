@@ -3,7 +3,7 @@ package com.company;
 /**
  * @author wgl
  * @ClassName sqStack.java
- * @Description
+ * @Description 栈
  * @createTime 2019/11/13  17:31:00
  */
 public class SqStack{
