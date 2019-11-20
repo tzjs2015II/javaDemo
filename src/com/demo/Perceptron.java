@@ -1,4 +1,4 @@
-package com.Demo;
+package com.demo;
 
 /**
  * @author wgl

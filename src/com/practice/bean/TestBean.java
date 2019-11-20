@@ -1,4 +1,4 @@
-package com.practice.Bean;
+package com.practice.bean;
 
 /**
  * @author wgl

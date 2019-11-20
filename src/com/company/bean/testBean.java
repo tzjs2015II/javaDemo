@@ -1,4 +1,4 @@
-package com.company.Bean;
+package com.company.bean;
 
 /**
  * @author wgl
